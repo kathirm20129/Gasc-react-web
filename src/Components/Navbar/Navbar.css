@@ -42,7 +42,7 @@ nav ul li{
     nav{
         padding: 15px 0;
     }
-    ul{
+    nav ul{
         position: fixed;
         top: 0;
         right: 0;
