@@ -5,7 +5,7 @@ import back_btn from '../../assets/back-icon.png'
 import user_1 from '../../assets/president1.png'
 import user_2 from '../../assets/president2.png'
 import user_3 from '../../assets/president3.png'
-import user_4 from '../../assets/user-4.png'
+
 
 function Testimonials() {
     const slider=useRef()
@@ -67,21 +67,6 @@ function Testimonials() {
                     </div>
                     <h3>Dr.D.Venugopal</h3>
                     <span>Principal</span>
-                    <p>Choosing to pursue my degree at Edusity 
-                    was one of the best decisions I've ever 
-                    made. The supportive community, state-
-                    of-the-art facilities, and commitment to 
-                    academic excellence have truly exceeded 
-                    my expectations.</p>
-                </div>
-            </li>
-            <li>
-                <div className='slide'>
-                    <div className='user-info'>
-                        <img src={user_4} alt="" />
-                    </div>
-                    <h3>Emily Williams4</h3>
-                    <span>Edusity,USA</span>
                     <p>Choosing to pursue my degree at Edusity 
                     was one of the best decisions I've ever 
                     made. The supportive community, state-
